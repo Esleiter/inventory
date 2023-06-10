@@ -1,3 +1,8 @@
+/* 
+Evaluación para Programación No Numérica II 
+I.U.P "Santiago Mariño" extensión Maracay
+*/
+
 #include <iostream>
 #include <array>
 using namespace std;
